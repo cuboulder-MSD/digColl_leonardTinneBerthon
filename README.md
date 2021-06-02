@@ -49,4 +49,4 @@ Information about restrictions imposed on access to a resource.
 
 Statement in collection: Material is believed to be in the public domain. However, other rights and restrictions may apply, such as privacy and publicity rights. User is responsible for compliance with all applicable laws. For information about copyright law, please see https://www.cusys.edu/DigitalLibrary/copyright.html.
 
-Copyright and other restrictions may apply. User is responsible for compliance with all applicable laws. For information about copyright law, please see https://www.cusys.edu/DigitalLibrary/copyright.html.
+Statement in collection: Copyright and other restrictions may apply. User is responsible for compliance with all applicable laws. For information about copyright law, please see https://www.cusys.edu/DigitalLibrary/copyright.html.
