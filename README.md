@@ -42,7 +42,7 @@ Contains the textual or coded form for the language of the content of the resour
 Information that identifies other resources related to the one being described.
 
 ### Coverage
-Location of work creation or publication city. Places include: [Portianon (Greece)]((http://id.loc.gov/authorities/names/n99263637)
+Location of work creation or publication city. Places include: [Portianon (Greece)](http://id.loc.gov/authorities/names/n99263637)
 
 ### Access Condition
 Information about restrictions imposed on access to a resource.
